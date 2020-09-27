@@ -1,6 +1,5 @@
 import tkinter as tk
 
-
 def encrypt():
     text = ent_words.get()
     shift = int(ent_shift.get())
